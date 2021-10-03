@@ -1,1 +1,2 @@
 # Regression-Project
+The goal of this notebook is to predict CO2 emissions in g/km produced by any vehicle based on certain features. The dataset has been taken from Kaggle - https://www.kaggle.com/debajyotipodder/co2-emission-by-vehicles and contains 11 features which will leveraged to determine the CO2 emissions. The dataset originally comes from the Canada Government official open data website and was compiled over 7 years. We will be analyzing the dataset, preprocessing it and ultimately creating a Multiple Regression model to achieve our goal her
